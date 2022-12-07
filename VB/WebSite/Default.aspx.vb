@@ -9,11 +9,9 @@ Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports System.Collections.Generic
 Imports DevExpress.Web.Data
-Imports DevExpress.Web.ASPxPopupControl
-Imports DevExpress.Web.ASPxEditors
 Imports System.Drawing
 
 
